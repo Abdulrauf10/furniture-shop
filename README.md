@@ -1,5 +1,5 @@
 ## To run the app (server & client)
 npm start
 
-##Technologies
+## Technologies
 NodeJs, Sequelize, ReactJs, Redux-toolkit, Bootstrap, react-toastify, PostgreSQL
